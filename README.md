@@ -1,16 +1,33 @@
-### Hi there 👋
+# 👋 Hi, I'm Anto Subash
 
-<!--
-**antosubash/antosubash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate developer and researcher currently working at [IIASA](https://www.iiasa.ac.at/) in Vienna, Austria. I specialize in building scalable applications, microservices, and tools that bridge the gap between data and decision-making.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧱 Architecting modular ABP-based applications
+- 🌐 Building full-stack solutions with React, TypeScript, and C#
+- 🧪 Experimenting with CLI tools and templates for rapid development
+- 📊 Contributing to geo-spatial data platforms and APIs
+
+## 📌 Pinned Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [abp-react](https://github.com/antosubash/abp-react) | React frontend for ABP apps | TypeScript |
+| [abp-microservice](https://github.com/antosubash/abp-microservice) | Microservice sample using ABP | C# |
+| [abp-single-layer-template](https://github.com/antosubash/abp-single-layer-template) | Personal ABP template | C# |
+| [abp-cli-template](https://github.com/antosubash/abp-cli-template) | CLI tool for ABP apps | C# |
+| [blog](https://github.com/antosubash/blog) | My blog powered by MDX | MDX |
+
+## 🌐 Connect with Me
+
+- 🌍 Website: [antosubash.com](https://antosubash.com/)
+- 📝 Blog: [blog.antosubash.com](https://blog.antosubash.com)
+- 📧 Email: antosubash@live.com
+- 🧬 ORCID: [0000-0002-2652-6583](https://orcid.org/0000-0002-2652-6583)
+- 🐦 Twitter: [@antosubash](https://twitter.com/antosubash)
+
+---
+
+Thanks for stopping by! Feel free to explore my repos, raise issues, or just say hi 👋
+
