@@ -24,7 +24,6 @@ Welcome to my GitHub! I'm a passionate developer and researcher currently workin
 - 🌍 Website: [antosubash.com](https://antosubash.com/)
 - 📝 Blog: [blog.antosubash.com](https://blog.antosubash.com)
 - 📧 Email: antosubash@live.com
-- 🧬 ORCID: [0000-0002-2652-6583](https://orcid.org/0000-0002-2652-6583)
 - 🐦 Twitter: [@antosubash](https://twitter.com/antosubash)
 
 ---
